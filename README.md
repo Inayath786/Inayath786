@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Inayath786
-- 👀 I’m interested in programming 
-- 🌱 I’m currently learning python 
+- 👀 I’m interested in Entrepreneurship 
+- 🌱 I’m currently learning app development using various technologies 
 - 💞️ I’m looking to collaborate to others
 - 📫 How to reach me msg me
 
